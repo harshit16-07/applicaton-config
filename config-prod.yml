@@ -1,4 +1,4 @@
 build:
   num: 667
   version: 1.0.0667
-  name: "PROFILE FOR PRODUCTION"
+  name: "PROFILE FOR PRODUCTION via actuator"
